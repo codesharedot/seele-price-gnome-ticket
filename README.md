@@ -1,5 +1,8 @@
-# seele price gnome ticket 
+# seele gnome price ticker
 
-Gnome 3 desktop ticker for seele price with Python and argos. Rename to seele.1r.60s.py and put in ~/.config/argos
+Get seele price in Python [https://pythonbasics.org](https://pythonbasics.org).
+See [https://codesharedot.github.io/seele-price-gnome-ticket/](https://codesharedot.github.io/seele-price-gnome-ticket/)
 
-https://pythonbasics.org
+seele price ticker for Gnome desktop. Gets the price with Python and argos.
+
+Rename to seele.1r60s.py and put in ~/.config/argos
